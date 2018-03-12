@@ -1,0 +1,13 @@
+4 log1.txt
+2 log1.txt
+6 log1.txt
+0 log1.txt
+3 log2.txt
+8 log2.txt
+5 log3.txt
+1 NotThatBigLog.txt
+7 NotThatBigLog.txt
+14 NotThatBigLog.txt
+1 KindOfBig.txt
+3 KindOfBig.txt
+24 KindOfBig.txt

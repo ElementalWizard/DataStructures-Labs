@@ -1,0 +1,9 @@
+Alex#10
+Bob#10#Alex
+Crystal#10#Alex
+David#1#Alex
+Elena#1#David
+Fobian#1#David
+Gerarldo#1#David
+Harry#10#Bob
+Ilma#10#Crystal

@@ -1,0 +1,9 @@
+12 logX1.txt
+19 logX2.txt
+11 logX3.txt
+15 logX4.txt
+20 logX6.txt
+25 logX7.txt
+100 logX8.txt
+7 KindOfBig.txt
+7 NotThatBigLog.txt
